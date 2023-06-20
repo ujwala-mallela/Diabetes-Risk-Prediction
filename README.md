@@ -31,13 +31,3 @@ K-fold Cross-Validation: The models undergo k-fold cross-validation, where the d
 ## Findings:
 
 The random forest model exhibited superior performance with an accuracy of 81.33% when compared to logistic regression, MLP and decision tree models. Glucose levels, BMI, and age were consistently identified as the most influential factors in determining diabetes risk. The project's results highlight the potential of using machine learning techniques for early diabetes detection and risk assessment, which can aid in implementing preventive measures and personalized healthcare interventions.
-
-## Guidelines:
-
-Install the required libraries and dependencies mentioned in the project's requirements.txt file.
-
-Download or clone the repository to your local machine.
-
-Ensure the dataset is available in the appropriate format (CSV, Excel, etc.) and located in the correct directory.
-
-Open and run the Jupyter Notebook and explore the model evaluation metrics, classification reports, and confusion matrices to assess the model's accuracy and reliability.
